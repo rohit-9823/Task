@@ -156,35 +156,35 @@ function Dashboard() {
               <ul class="top-sales-details">
                 <li>
                   <a href="#">
-                    {/* < />!--<img src="images/sunglasses.jpg" alt="">--> */}
+                    
                       <span class="product">Ram Shrestha</span>
                     </a>
                   <span class="price">Topper</span>
                 </li>
                 <li>
                   <a href="#">
-                    {/* < />!--<img src="images/jeans.jpg" alt="">--> */}
+                    
                       <span class="product">Dhurmus </span>
                     </a>
                   <span class="price">Second Topper</span>
                 </li>
                 <li>
                   <a href="#">
-                    {/* < />!-- <img src="images/nike.jpg" alt="">--> */}
+                    
                       <span class="product">Hari bahadur</span>
                     </a>
                   <span class="price">Expelled</span>
                 </li>
                 <li>
                   <a href="#">
-                    {/* < />!--<img src="images/scarves.jpg" alt="">--> */}
+                    
                       <span class="product">Nara Narayan.</span>
                     </a>
                   <span class="price">Restricted</span>
                 </li>
                   <li>
                     <a href="#">
-                      {/* < />!--<img src="images/addidas.jpg" alt="">--> */}
+                    
                         <span class="product">Madan Bahadur</span>
                       </a>
                     <span class="price">Suspended</span>
